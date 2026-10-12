@@ -1,0 +1,33 @@
+origin,airline_name,scheduled_flights,dep_delay_rate_pct,airport_rate_pct,vs_airport_pts,rank_worst_at_airport
+EWR,ExpressJet Airlines Inc.,43939,31.77,25.32,6.45,1
+EWR,Southwest Airlines Co.,6188,28.01,25.32,2.69,2
+EWR,Envoy Air,2276,27.28,25.32,1.96,3
+EWR,United Air Lines Inc.,46087,22.85,25.32,-2.47,4
+EWR,JetBlue Airways,6557,21.61,25.32,-3.71,5
+EWR,Delta Air Lines Inc.,4342,17.94,25.32,-7.38,6
+EWR,American Airlines Inc.,3487,17.3,25.32,-8.02,7
+EWR,Virgin America,1566,16.77,25.32,-8.55,8
+EWR,Endeavor Air Inc.,1268,14.42,25.32,-10.9,9
+EWR,Alaska Airlines Inc.,714,14.04,25.32,-11.27,10
+EWR,US Airways Inc.,4405,11.5,25.32,-13.82,11
+JFK,Endeavor Air Inc.,14651,28.26,21.34,6.93,1
+JFK,ExpressJet Airlines Inc.,1408,26.02,21.34,4.68,2
+JFK,JetBlue Airways,42076,23.71,21.34,2.37,3
+JFK,Envoy Air,7193,23.19,21.34,1.85,4
+JFK,Virgin America,3596,18.57,21.34,-2.76,5
+JFK,American Airlines Inc.,13783,17.66,21.34,-3.68,6
+JFK,Delta Air Lines Inc.,20701,16.65,21.34,-4.69,7
+JFK,United Air Lines Inc.,4534,15.23,21.34,-6.1,8
+JFK,US Airways Inc.,2995,13.0,21.34,-8.34,9
+LGA,Frontier Airlines Inc.,685,29.62,19.5,10.12,1
+LGA,Mesa Airlines Inc.,601,29.36,19.5,9.86,2
+LGA,ExpressJet Airlines Inc.,8826,28.77,19.5,9.27,3
+LGA,AirTran Airways Corporation,3260,27.67,19.5,8.18,4
+LGA,Southwest Airlines Co.,6087,27.47,19.5,7.97,5
+LGA,JetBlue Airways,6002,23.8,19.5,4.3,6
+LGA,Envoy Air,16928,20.47,19.5,0.97,7
+LGA,Endeavor Air Inc.,2541,20.11,19.5,0.61,8
+LGA,United Air Lines Inc.,8044,19.62,19.5,0.13,9
+LGA,Delta Air Lines Inc.,23067,16.97,19.5,-2.53,10
+LGA,American Airlines Inc.,15459,15.1,19.5,-4.39,11
+LGA,US Airways Inc.,13136,12.94,19.5,-6.56,12

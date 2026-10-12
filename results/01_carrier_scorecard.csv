@@ -1,0 +1,15 @@
+airline_name,carrier,scheduled_flights,cancel_rate_pct,dep_delay_rate_pct,avg_dep_delay_min,arr_delay_rate_pct,avg_min_recovered_in_air
+ExpressJet Airlines Inc.,EV,54173,5.2,31.14,20.0,32.09,4.0
+Frontier Airlines Inc.,F9,685,0.44,29.62,20.2,38.77,-1.7
+Mesa Airlines Inc.,YV,601,9.32,29.36,19.0,32.9,3.3
+Southwest Airlines Co.,WN,12275,1.56,27.74,17.7,25.69,8.0
+AirTran Airways Corporation,FL,3260,2.24,27.67,18.7,34.65,-1.5
+Endeavor Air Inc.,9E,18460,5.66,26.2,16.7,25.57,9.1
+JetBlue Airways,B6,54635,0.85,23.47,13.0,26.95,3.5
+United Air Lines Inc.,UA,58665,1.17,21.83,12.1,22.51,8.5
+Envoy Air,MQ,26397,4.67,21.78,10.6,27.9,-0.3
+Virgin America,VX,5162,0.6,18.03,12.9,18.69,11.0
+Delta Air Lines Inc.,DL,48110,0.73,16.92,9.3,18.96,7.6
+American Airlines Inc.,AA,32729,1.94,16.42,8.6,19.42,8.2
+Alaska Airlines Inc.,AS,714,0.28,14.04,5.8,14.67,15.8
+US Airways Inc.,US,20536,3.23,12.64,3.8,18.82,1.6

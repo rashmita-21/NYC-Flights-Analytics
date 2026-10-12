@@ -1,0 +1,12 @@
+factor,band,scheduled_flights,dep_delay_rate_pct,delay_lift_vs_all,cancel_rate_pct,cancel_lift_vs_all
+Precipitation,1) dry,312218,20.96,0.94,2.02,0.82
+Precipitation,2) precipitation,23002,39.99,1.8,8.33,3.39
+Temperature,1) at or below 32F,30853,21.28,0.96,4.29,1.75
+Temperature,2) above 32F,304350,22.27,1.0,2.27,0.92
+Visibility,1) under 1 mi,5449,35.89,1.62,8.92,3.63
+Visibility,2) 1 to 3 mi,11313,33.52,1.51,7.84,3.19
+Visibility,3) 3 to 10 mi,39719,27.76,1.25,4.47,1.82
+Visibility,4) 10 mi (clear),278739,20.73,0.93,1.82,0.74
+Wind speed,1) calm (under 10 mph),149178,20.15,0.91,1.94,0.79
+Wind speed,2) breezy (10-20 mph),164770,23.4,1.05,2.5,1.02
+Wind speed,3) windy (20+ mph),21194,27.39,1.23,5.69,2.32

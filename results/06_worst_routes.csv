@@ -1,0 +1,16 @@
+rank_worst,origin,dest,origin_airport,dest_airport,scheduled_flights,dep_delay_rate_pct,avg_dep_delay_min,cancel_rate_pct
+1,EWR,ROC,Newark Liberty Intl,Greater Rochester Intl,513,38.78,27.9,4.48
+2,EWR,RIC,Newark Liberty Intl,Richmond Intl,1667,37.13,26.5,3.06
+3,JFK,CVG,John F Kennedy Intl,Cincinnati Northern Kentucky Intl,997,36.31,27.4,4.41
+4,EWR,PWM,Newark Liberty Intl,Portland Intl Jetport,770,36.28,25.7,4.42
+5,EWR,GSP,Newark Liberty Intl,Greenville-Spartanburg International,745,36.06,20.8,6.58
+6,EWR,DCA,Newark Liberty Intl,Ronald Reagan Washington Natl,1719,35.15,21.3,8.14
+7,EWR,MHT,Newark Liberty Intl,Manchester Regional Airport,867,34.71,20.6,4.96
+8,EWR,DAY,Newark Liberty Intl,James M Cox Dayton Intl,1134,34.4,21.2,6.7
+9,EWR,MKE,Newark Liberty Intl,General Mitchell Intl,1094,34.37,23.6,2.65
+10,EWR,MCI,Newark Liberty Intl,Kansas City Intl,1356,34.17,21.7,5.46
+11,JFK,CMH,John F Kennedy Intl,Port Columbus Intl,742,34.09,22.0,4.72
+12,EWR,JAX,Newark Liberty Intl,Jacksonville Intl,1242,33.75,19.2,3.86
+13,EWR,GSO,Newark Liberty Intl,Piedmont Triad,1120,32.89,19.4,6.34
+14,EWR,MEM,Newark Liberty Intl,Memphis Intl,926,32.71,19.4,7.88
+15,EWR,GRR,Newark Liberty Intl,Gerald R Ford Intl,719,32.56,20.6,3.48

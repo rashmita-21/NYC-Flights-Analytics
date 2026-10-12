@@ -1,0 +1,10 @@
+dimension,value,sort_key,scheduled_flights,dep_delay_rate_pct,cancel_rate_pct
+Weekday,Monday,1,50690,23.64,2.41
+Weekday,Tuesday,2,50422,20.69,2.28
+Weekday,Wednesday,3,50060,20.96,2.4
+Weekday,Thursday,4,50219,25.74,3.11
+Weekday,Friday,5,50308,24.81,3.2
+Weekday,Saturday,6,38720,17.23,2.06
+Weekday,Sunday,7,46357,21.13,1.54
+Holiday,Regular day,100,328157,22.3,2.48
+Holiday,US federal holiday,101,8619,18.29,1.29

@@ -1,0 +1,5 @@
+distance_band,late_departures,avg_dep_delay_min,avg_arr_delay_min,avg_min_recovered,pct_arrive_on_time_despite_late_departure
+1) under 500 mi,18243,66.3,64.0,2.4,14.8
+2) 500-999 mi,24261,67.1,64.4,2.7,17.6
+"3) 1,000-1,999 mi",19915,62.5,58.1,4.5,22.6
+"4) 2,000+ mi",10001,59.7,52.1,7.6,30.8

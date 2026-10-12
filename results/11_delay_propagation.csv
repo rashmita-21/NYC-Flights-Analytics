@@ -1,0 +1,5 @@
+previous_flight,flights,avg_hours_between_departures,this_flight_delay_rate_pct,this_flight_avg_delay_min
+1) previous flight on time or early,57064,6.7,22.67,12.3
+2) previous flight 1-14 min late,10381,6.7,35.84,22.1
+3) previous flight 15-59 min late,8295,6.3,54.92,35.7
+4) previous flight 60+ min late,3688,6.3,82.97,80.8

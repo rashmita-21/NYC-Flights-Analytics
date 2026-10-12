@@ -1,0 +1,16 @@
+rank,dest,dest_airport,scheduled_flights,delay_minutes,share_of_flights_pct,share_of_delay_pct,cumulative_share_pct
+1,ORD,Chicago Ohare Intl,17283,275023,5.13,5.44,5.44
+2,ATL,Hartsfield Jackson Atlanta Intl,17215,254414,5.11,5.03,10.47
+3,SFO,San Francisco Intl,13331,197238,3.96,3.9,14.37
+4,MCO,Orlando Intl,14082,195015,4.18,3.86,18.23
+5,BOS,General Edward Lawrence Logan Intl,15508,185833,4.6,3.67,21.9
+6,LAX,Los Angeles Intl,16174,185631,4.8,3.67,25.57
+7,FLL,Fort Lauderdale Hollywood Intl,12055,182464,3.58,3.61,29.18
+8,CLT,Charlotte Douglas Intl,14064,171878,4.18,3.4,32.58
+9,DTW,Detroit Metro Wayne Co,9384,136887,2.79,2.71,35.29
+10,MIA,Miami Intl,11728,135136,3.48,2.67,37.96
+11,DCA,Ronald Reagan Washington Natl,9705,127181,2.88,2.52,40.47
+12,RDU,Raleigh Durham Intl,8163,122954,2.42,2.43,42.91
+13,DEN,Denver Intl,7266,122014,2.16,2.41,45.32
+14,BNA,Nashville Intl,6333,115172,1.88,2.28,47.6
+15,MSP,Minneapolis St Paul Intl,7185,112788,2.13,2.23,49.83

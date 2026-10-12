@@ -1,0 +1,13 @@
+month_name,scheduled_flights,dep_delay_rate_pct,mom_change_pts,cancel_rate_pct
+January,27004,19.22,,1.93
+February,24951,20.94,1.72,5.05
+March,28834,22.94,2.0,2.99
+April,28330,23.15,0.21,2.36
+May,28796,23.54,0.39,1.96
+June,28243,29.43,5.89,3.57
+July,29425,30.33,0.9,3.19
+August,29327,22.86,-7.47,1.66
+September,27574,14.41,-8.45,1.64
+October,28889,15.45,1.04,0.82
+November,27268,15.05,-0.4,0.85
+December,28135,28.58,13.53,3.64

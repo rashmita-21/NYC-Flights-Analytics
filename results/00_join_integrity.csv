@@ -1,0 +1,7 @@
+step,rows_returned,pct_lost_vs_all
+All flights (fact_flight),336776,0.0
+INNER JOIN dim_plane,284170,15.62
+LEFT JOIN dim_plane,336776,0.0
+INNER JOIN fact_weather,335220,0.46
+LEFT JOIN fact_weather,336776,0.0
+Anti-join: flights with a tail number but no plane record,50094,14.87
